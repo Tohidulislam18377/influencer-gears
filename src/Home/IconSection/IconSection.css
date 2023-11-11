@@ -1,0 +1,13 @@
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width:576px) {
+    .icon-container{
+        flex-direction: column;
+        row-gap: 20px;
+    }
+}
+

@@ -1,0 +1,21 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+   
+}
+
+.nav-item{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.abc{
+text-decoration: none;
+color: #3A3A3A;
+font-weight: 600;
+font-size: 18px;
+}
+
+
